@@ -2,7 +2,7 @@
  
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple yet elegant component that displays a user's test results in a visually appealing way.
+Hello! I'm Abdallah Maher, and this is a solution to the "NFT Preview Card Componentt" challenge from Frontend Mentor. This project is a clean and modern card component that showcases an NFT preview with hover effects and a well-structured layout.
 
 🚀 Features
 
@@ -14,13 +14,8 @@ Dynamic score representation
 
 🛠 Technologies Used
 
-HTML5
+HTML  /  CSS (Flexbox)
 
-CSS3 (Flexbox & Grid for layout)
-
-git clone ([https://github.com/AbdallahMaherDev/ReSultS-SUmmary-ComponenT-1](https://github.com/AbdallahMaherDev/Nft-preview-card-4))
-
-Open index.html in your browser to view the component.
 
 🎨 Preview
 
